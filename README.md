@@ -19,9 +19,3 @@ Hi, I'm Ferris, a Full Stack Developer 🚀 from China. I love Golang & Python f
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferrisz&show_icons=true)
 
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I'm working on the following projects. 
-- ❤️ If my projects have helped you, please consider [sponsoring me](https://www.paypal.me/xxjwxc)  ~~ Thank you! ❤️ 
-
-## Pinned
