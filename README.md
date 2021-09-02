@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**ferrisz/ferrisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm [ferrisz!](https://zhoufeiyu.com) 👋
 
-Here are some ideas to get you started:
+<a href="mailto:feiyu.zhou@outlook.com">
+  <img align="left" alt="Ferris's Email | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/minutemailer.svg" />
+</a>
+<a href="tencent://message/?uin=10534784">
+  <img align="left" alt="Ferris's qq" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
+</a>
+<a href="weixin://qr/title=zhou_feiyu">
+  <img align="left" alt="Ferris's Weixin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+Hi, I'm Ferris, a Full Stack Developer 🚀 from China. I love Golang & Python forever.❤️ 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferrisz&show_icons=true)
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I'm working on the following projects. 
+- ❤️ If my projects have helped you, please consider [sponsoring me](https://www.paypal.me/xxjwxc)  ~~ Thank you! ❤️ 
+
+## Pinned
